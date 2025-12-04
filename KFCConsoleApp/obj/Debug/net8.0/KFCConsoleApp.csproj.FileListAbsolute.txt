@@ -1,0 +1,18 @@
+/home/shah/KFCConsoleApp/obj/Debug/net8.0/KFCConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/shah/KFCConsoleApp/obj/Debug/net8.0/KFCConsoleApp.AssemblyInfoInputs.cache
+/home/shah/KFCConsoleApp/obj/Debug/net8.0/KFCConsoleApp.AssemblyInfo.cs
+/home/shah/KFCConsoleApp/obj/Debug/net8.0/KFCConsoleApp.csproj.CoreCompileInputs.cache
+/home/shah/Рабочий стол/KFCConsoleApp/obj/Debug/net8.0/KFCConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/shah/Рабочий стол/KFCConsoleApp/obj/Debug/net8.0/KFCConsoleApp.AssemblyInfoInputs.cache
+/home/shah/Рабочий стол/KFCConsoleApp/obj/Debug/net8.0/KFCConsoleApp.AssemblyInfo.cs
+/home/shah/Рабочий стол/KFCConsoleApp/obj/Debug/net8.0/KFCConsoleApp.csproj.CoreCompileInputs.cache
+/home/shah/Рабочий стол/KFCConsoleApp/bin/Debug/net8.0/KFCConsoleApp
+/home/shah/Рабочий стол/KFCConsoleApp/bin/Debug/net8.0/KFCConsoleApp.deps.json
+/home/shah/Рабочий стол/KFCConsoleApp/bin/Debug/net8.0/KFCConsoleApp.runtimeconfig.json
+/home/shah/Рабочий стол/KFCConsoleApp/bin/Debug/net8.0/KFCConsoleApp.dll
+/home/shah/Рабочий стол/KFCConsoleApp/bin/Debug/net8.0/KFCConsoleApp.pdb
+/home/shah/Рабочий стол/KFCConsoleApp/obj/Debug/net8.0/KFCConsoleApp.dll
+/home/shah/Рабочий стол/KFCConsoleApp/obj/Debug/net8.0/refint/KFCConsoleApp.dll
+/home/shah/Рабочий стол/KFCConsoleApp/obj/Debug/net8.0/KFCConsoleApp.pdb
+/home/shah/Рабочий стол/KFCConsoleApp/obj/Debug/net8.0/KFCConsoleApp.genruntimeconfig.cache
+/home/shah/Рабочий стол/KFCConsoleApp/obj/Debug/net8.0/ref/KFCConsoleApp.dll
