@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "Administrator",
+    "Email": "admin@kfc.com",
+    "PasswordHash": "ВСТАВЬ_ХЭШ_ОТ_admin123",
+    "Role": 1,
+    "CreatedAt": "2024-12-04T15:00:00",
+    "IsActive": true
+  },
+  {
+    "Id": 2,
+    "Name": "Super Administrator",
+    "Email": "superadmin@kfc.com",
+    "PasswordHash": "ВСТАВЬ_ХЭШ_ОТ_superadmin123",
+    "Role": 2,
+    "CreatedAt": "2024-12-04T15:00:00",
+    "IsActive": true
+  }
+]

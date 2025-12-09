@@ -1,4 +1,4 @@
-namespace KFCConsoleApp.Src.Commons.Localization
+namespace Commons.Localization
 {
     internal class AppWords
     {

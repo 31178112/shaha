@@ -1,4 +1,6 @@
-using KFCConsoleApp.Src.Features.Main.Screens;
+using KFCConsoleApp.Features.Home.Screens;
+using Commons;
+using Commons.Services;
 
 namespace KFCConsoleApp
 {
@@ -6,8 +8,18 @@ namespace KFCConsoleApp
     {
         static void Main(string[] args)
         {
-            MainScreens.Build();
+            try
+            {
+                Initializer.Initialize();
+                var homeScreen = new HomeScreen();
+                homeScreen.Show();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Ошибка запуска: {ex.Message}");
+                Console.WriteLine("Нажмите любую клавишу для выхода...");
+                Console.ReadKey();
+            }
         }
     }
 }
-
